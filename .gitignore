@@ -14,3 +14,7 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# files in .idea folder
+**/.idea/workspace.xml
+**/.idea/tasks.xml
